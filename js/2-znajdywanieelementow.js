@@ -14,3 +14,7 @@ console.log(allLink);
 
 var firstLink = document.querySelector('.superlink');
 console.log(firstLink);
+
+var parFirst = document.getElementById('parFirst').style;
+console.log(parFirst);
+
